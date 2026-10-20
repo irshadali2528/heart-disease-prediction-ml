@@ -85,3 +85,4 @@ This is an educational machine learning project. It is not intended for clinical
 ## Author
 
 Irshad Ali
+**Machine Learning | Python | Scikit-learn**
